@@ -1,7 +1,6 @@
 # 100DaysofMachineLearning
+![100-Days-Of-MachineLearning-Code](100daysofMLcode.png)
 100-Days-Of-MachineLearning-Code
-
-100-Days-of-MachineLearning
 
 ## Machine Learning 
 
