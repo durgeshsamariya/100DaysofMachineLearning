@@ -5,7 +5,8 @@
 
 ## Machine Learning 
 
-Machine Learning is the “Field of study that gives computers the ability to learn without being explicitly programmed”. — Arthur Samuel , 1959
+Machine Learning is the “Field of study that gives computers the ability to learn without being explicitly programmed”. 
+— Arthur Samuel , 1959
 
 ## About Challenge
 
