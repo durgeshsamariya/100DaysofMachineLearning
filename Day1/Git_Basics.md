@@ -104,7 +104,7 @@ $ git branch -d [branch_name]
 $ git push -u origin master
 ``
 
-### Download repository from GitHUb to local machine
+### Download repository from GitHub to local machine
 ``
 $ git pull origin master
 ``
