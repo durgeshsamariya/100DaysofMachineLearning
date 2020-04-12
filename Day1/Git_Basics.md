@@ -1,8 +1,7 @@
 # GIT Basics
 
-
 ## Installation of GIT
----
+
 [Git_official_Website](https://git-scm.com/downloads)
 
 ### Mac
@@ -27,7 +26,7 @@ $ git --version
 
 or
 
-1. run `` git init [project-name]``
+1. run `` $ git init [project-name]``
 
 It will create new local repository with specific name.
 
@@ -37,7 +36,7 @@ It will create new local repository with specific name.
 2. run `` $ git clone [url]``
 
 ## Make Changes
----
+
 
 ### Check the status of GIT repository
 `` 
@@ -67,7 +66,7 @@ $ git commit -m "Message"
 Messages are good way to comment on changes.
 
 ## Branches
----
+
 ### Create branch
 ``
 $ git branch [new_branch]
@@ -99,7 +98,6 @@ $ git branch -d [branch_name]
 ``
 
 ## Synchronize Changes
----
 
 ### Upload local repository to GitHub
 ``
