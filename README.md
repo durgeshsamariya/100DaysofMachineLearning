@@ -66,3 +66,5 @@ But those who are new to Machine Learning, I highly recommend Python.
 Git is version control system and GitHub is place to show your work to world.
 
 Today I learned basics of Python ([here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day1/Python_Basics_1.ipynb)) and basics of Git ([here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day1/Git_Basics.md)).
+
+You can read article [here](https://medium.com/@durgeshsamariya/day-1-of-100daysofmlcode-40d3c85fbde).
