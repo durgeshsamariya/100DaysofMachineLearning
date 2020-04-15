@@ -74,3 +74,8 @@ You can read article [here](https://medium.com/@durgeshsamariya/day-1-of-100days
 ![Day 2](resources/banners/Day2.png)
 
 Today I learned more about Basic of Python ([here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20002/Python_Basics_2.ipynb)).
+
+
+## Day 3 | April 14, 2020
+
+Today I learnd about OOPs concepts in Python ([here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20003/OOPs%20Concepts.ipynb)).
