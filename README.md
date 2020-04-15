@@ -79,3 +79,11 @@ Today I learned more about Basic of Python ([here](https://github.com/durgeshsam
 ## Day 3 | April 14, 2020
 
 Today I learnd about OOPs concepts in Python ([here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20003/OOPs%20Concepts.ipynb)).
+
+## Day 4 | April 15, 2020
+
+Its very productive day. Worked on NumPy library. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20004/NumPy.ipynb).
+
+## Day 5 | April 16, 2020
+
+
