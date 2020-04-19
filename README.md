@@ -82,8 +82,21 @@ Today I learnd about OOPs concepts in Python ([here](https://github.com/durgeshs
 
 ## Day 4 | April 15, 2020
 
-Its very productive day. Worked on NumPy library. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20004/NumPy.ipynb).
+Its very productive day. Worked on NumPy library. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20004/NumPy.ipynb). 
+Tomorrow, I will work on Pandas library. I am planning to working on NumPy and Pandas alternative days.
 
 ## Day 5 | April 16, 2020
 
+I learned basics of Pandas library. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20005/Pandas.ipynb).
 
+## Day 6 | April 17, 2020
+
+Get my hands dirty in NumPy library. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20006/NumPy.ipynb).
+
+## Day 7 | April 18, 2020
+
+Learned more about Pandas library. Now its time to move on different topic. I will learn more on pandas (excercise) if need. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20006/NumPy.ipynb).
+
+Happy Weekend.
+
+## Day 8 | April 19, 2020
