@@ -100,3 +100,9 @@ Learned more about Pandas library. Now its time to move on different topic. I wi
 Happy Weekend.
 
 ## Day 8 | April 19, 2020
+Learned advanced NumPy concepts : Liner Algebra. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20008/NumPy.ipynb).
+
+## Day 9 | April 20, 2020
+Learned about Data handling, storage and file formate using Pandas library. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20009/Day9.ipynb).
+
+## Day 10 | April 21, 2020
