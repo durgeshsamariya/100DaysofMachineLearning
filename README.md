@@ -106,3 +106,4 @@ Learned advanced NumPy concepts : Liner Algebra. You can find code [here](https:
 Learned about Data handling, storage and file formate using Pandas library. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20009/Day9.ipynb).
 
 ## Day 10 | April 21, 2020
+I did Covid-19 visualization project. Learned about web scraping, data cleaning and some visualization techniques. You can find code from here.
