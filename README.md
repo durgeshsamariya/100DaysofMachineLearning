@@ -109,7 +109,15 @@ Learned about Data handling, storage and file formate using Pandas library. You 
 I did two Covid-19 visualization project. One is effect of COVID-19 on India and another one is COVID-19 on Globe.
  Learned about web scraping, data cleaning and some visualization techniques. You can find code from [COVID-19 India](https://github.com/durgeshsamariya/Covid19India) and [Covid-19](https://github.com/durgeshsamariya/COVID19).
 
-## Day 13| April 24, 2020
+## Day 13 | April 24, 2020
 
 
-## Day 14| April 25, 2020
+## Day 14 | April 25, 2020
+
+## Day 15 | April 26, 2020
+
+## Day 16 | April 27, 2020
+
+## Day 17 | April 28, 2020
+
+## Day 18 | April 29, 2020 
