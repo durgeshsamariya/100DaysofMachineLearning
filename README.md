@@ -120,4 +120,28 @@ I did two Covid-19 visualization project. One is effect of COVID-19 on India and
 
 ## Day 17 | April 28, 2020
 
-## Day 18 | April 29, 2020 
+## Day 18 | April 29, 2020
+
+## Day 19 | April 30, 2020
+
+## Day 20 | 
+
+## Day 21 |
+
+## Day 22 |
+
+## Day 23 |
+
+## Day 24 |
+
+## Day 25 |
+
+## Day 26 |
+
+## Day 27 |
+
+## Day 28 |
+
+## Day 29 |
+
+## Day 30 | 
