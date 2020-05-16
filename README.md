@@ -1,4 +1,5 @@
-# 100DaysofMachineLearning [![GitHub stars](https://img.shields.io/github/stars/durgeshsamariya/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/durgeshsamariya/StrapDown.js/stargazers/)
+# 100DaysofMachineLearning
+[![GitHub stars](https://img.shields.io/github/stars/durgeshsamariya/100DaysofMachineLearning.svg)](https://github.com/durgeshsamariya/100DaysofMachineLearning/stargazers)
 
 ![100-Days-Of-MachineLearning-Code](resources/banners/100daysofMLcode.png)
 100-Days-Of-MachineLearning-Code
