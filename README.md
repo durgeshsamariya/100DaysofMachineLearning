@@ -126,24 +126,65 @@ I did two Covid-19 visualization project. One is effect of COVID-19 on India and
 
 ## Day 19 | April 30, 2020
 
-## Day 20 | 
+## Day 20 | May 1, 2020
 
-## Day 21 |
+## Day 21 | May 2, 2020
 
-## Day 22 |
+## Day 22 | May 3, 2020
 
-## Day 23 |
+## Day 23 | May 4, 2020
 
-## Day 24 |
+## Day 24 | May 5, 2020
 
-## Day 25 |
+## Day 25 | May 6, 2020
 
-## Day 26 |
+## Day 26 | May 7, 2020
 
-## Day 27 |
+## Day 27 | May 8, 2020
 
-## Day 28 |
+## Day 28 | May 9, 2020
 
-## Day 29 |
+## Day 29 | May 10, 2020
 
-## Day 30 | 
+## Day 30 | May 11, 2020
+
+## Day 31 | May 12, 2020
+
+## Day 32 | May 13, 2020
+
+## Day 33 | May 14, 2020
+
+## Day 34 | May 15, 2020
+
+## Day 35 | May 16, 2020
+
+## Day 36 | May 17, 2020
+
+## Day 37 | May 18, 2020
+
+## Day 38 | May 19, 2020
+
+## Day 39 | May 20, 2020
+
+## Day 40 | May 21, 2020
+
+## Day 41 | May 22, 2020
+
+## Day 42 | May 23, 2020
+
+## Day 43 | May 24, 2020
+
+## Day 44 | May 25, 2020
+
+## Day 45 | May 26, 2020
+
+## Day 46 | May 27, 2020
+
+## Day 47 | May 28, 2020
+
+## Day 48 | May 29, 2020
+
+## Day 49 | May 30, 2020
+
+## Day 50 | May 31, 2020
+
