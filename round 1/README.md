@@ -62,7 +62,7 @@ Today I read chapter 8 and 9 of Python Crash Course book. You can read article [
 
 ## Day 6 | April 17, 2020
 
-Today I learnd about OOPs concepts in Python ([here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20003/OOPs%20Concepts.ipynb)).
+Today I learnd about OOPs concepts in Python [here]().
 
 ## Day 7 | April 18, 2020
 
