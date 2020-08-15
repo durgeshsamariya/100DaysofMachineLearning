@@ -23,7 +23,7 @@ _**Make sure you subscribe and give star to repository, so you can enjoy amazing
 
 ## Day 1 | April 12, 2020
 
-![Day 1](../../resources/banners/Day1.png)
+![Day 1](../resources/banners/Day1.png)
 
 
 By starting day 1, I am taking this challenge and dedicate myself to study machine learning one hour a day till next 100 days.
@@ -39,15 +39,18 @@ But those who are new to Machine Learning, I highly recommend Python.
 - Great library
 - Increasing popularity
 
-Today I started reading Python Crash Course book by Eric. I read chapter 1, 2 and 3 today. You can read article [here]() and notebook [here](). 
+Today I started reading Python Crash Course book by Eric. I read chapter 1, 2 and 3 today. You can read article [here](https://medium.com/the-innovation/python-basics-variables-data-types-and-list-59cea3dfe10f) and notebook [here](). 
+
 ## Day 2 | April 13, 2020
 
 ![Day 2](resources/banners/Day2.png)
 
-Today I read chapter 4 and 6 of Python Crash Course book. You can read article [here]() and notebook [here]().
+Today I read chapter 4 and 6 of Python Crash Course book. You can read article [here](https://towardsdatascience.com/python-basics-2-working-with-list-tuples-dictionaries-871c6c01bb51) and notebook [here]().
 
 
 ## Day 3 | April 14, 2020
+
+TOday I manage to finish chapter 5 and 7 of Python Crash Course book. Tou can read article [here](https://medium.com/towards-artificial-intelligence/python-basics-3-97a8e69066e7) and notebook [here]().
 
 Today I learnd about OOPs concepts in Python ([here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20003/OOPs%20Concepts.ipynb)).
 
