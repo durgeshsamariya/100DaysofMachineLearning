@@ -63,19 +63,12 @@ But those who are new to Machine Learning, I highly recommend Python.
 - Great library
 - Increasing popularity
 
-### Git 
-
-Git is version control system and GitHub is place to show your work to world.
-
-Today I learned basics of Python ([here](hhttps://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20001/Python_Basics_1.ipynb)) and basics of Git ([here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20001/Git_Basics.md)).
-
-You can read article [here](https://medium.com/@durgeshsamariya/day-1-of-100daysofmlcode-40d3c85fbde).
-
+Today I started reading Python Crash Course book by Eric. I read chapter 1, 2 and 3 today. You can read article [here]() and notebook [here](). 
 ## Day 2 | April 13, 2020
 
 ![Day 2](resources/banners/Day2.png)
 
-Today I learned more about Basic of Python ([here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20002/Python_Basics_2.ipynb)).
+Today I read chapter 4 and 6 of Python Crash Course book. You can read article [here]() and notebook [here]().
 
 
 ## Day 3 | April 14, 2020
@@ -188,3 +181,28 @@ I did two Covid-19 visualization project. One is effect of COVID-19 on India and
 
 ## Day 50 | May 31, 2020
 
+## Day 51 | June 1, 2020
+
+## Day 52 | June 2, 2020
+
+## Day 53 | June 3, 2020
+
+## Day 54 | June 4, 2020
+
+## Day 55 | June 5, 2020
+
+## Day 56 | June 6, 2020
+
+## Day 58 | June 8, 2020
+
+## Day 59 | June 9, 2020
+
+## Day 60 | June 10, 2020
+
+## Day 61 | June 11, 2020
+
+## Day 62 | June 12, 2020
+
+## Day 63 | June 13, 2020
+
+## Day 64 | June 14, 2020
