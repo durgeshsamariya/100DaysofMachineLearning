@@ -23,7 +23,7 @@ _**Make sure you subscribe and give star to repository, so you can enjoy amazing
 
 ## Day 1 | April 12, 2020
 
-![Day 1](resources/banners/Day1.png)
+![Day 1](../../resources/banners/Day1.png)
 
 
 By starting day 1, I am taking this challenge and dedicate myself to study machine learning one hour a day till next 100 days.
