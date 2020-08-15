@@ -62,26 +62,22 @@ Today I read chapter 8 and 9 of Python Crash Course book. You can read article [
 
 ## Day 6 | April 17, 2020
 
-Today I learnd about OOPs concepts in Python [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%206%20-%20Python_OOPs_Concepts.ipynb).
+Today I learnd about OOPs concepts in Python [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%206%20-%20OOPs%20Concepts.ipynb).
 
 ## Day 7 | April 18, 2020
 
-Learned more about Pandas library. Now its time to move on different topic. I will learn more on pandas (excercise) if need. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20006/NumPy.ipynb).
-
-Happy Weekend.
 
 ## Day 8 | April 19, 2020
-Learned advanced NumPy concepts : Liner Algebra. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20008/NumPy.ipynb).
 
 ## Day 9 | April 20, 2020
-Learned about Data handling, storage and file formate using Pandas library. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20009/Day9.ipynb).
 
-## Day 10 to Day 12 | April 21, 2020 to April 23,2020
-I did two Covid-19 visualization project. One is effect of COVID-19 on India and another one is COVID-19 on Globe.
- Learned about web scraping, data cleaning and some visualization techniques. You can find code from [COVID-19 India](https://github.com/durgeshsamariya/Covid19India) and [Covid-19](https://github.com/durgeshsamariya/COVID19).
+## Day 10 | April 21, 2020
+
+## Day 11 | April 22,2020
+
+## Day 12 | April 23,2020
 
 ## Day 13 | April 24, 2020
-
 
 ## Day 14 | April 25, 2020
 
@@ -182,3 +178,75 @@ I did two Covid-19 visualization project. One is effect of COVID-19 on India and
 ## Day 63 | June 13, 2020
 
 ## Day 64 | June 14, 2020
+
+## Day 65 | June 15, 2020
+
+## Day 66 | June 16, 2020
+
+## Day 67 | June 17, 2020
+
+## Day 68 | June 18, 2020
+
+## Day 69 | June 19, 2020
+
+## Day 70 | June 20, 2020
+
+## Day 71 | June 21, 2020
+
+## Day 72 | June 22, 2020
+
+## Day 73 | June 23, 2020
+
+## Day 74 | June 24, 2020
+
+## Day 75 | June 25, 2020
+
+## Day 76 | June 26, 2020
+
+## Day 77 | June 27, 2020
+
+## Day 78 | June 28, 2020
+
+## Day 79 | June 29, 2020
+
+## Day 80 | June 30, 2020
+
+## Day 81 | July 1, 2020
+
+## Day 82 | July 2, 2020
+
+## Day 83 | July 3, 2020
+
+## Day 84 | July 4, 2020
+
+## Day 85 | July 5, 2020
+
+## Day 86 | July 6, 2020
+
+## Day 87 | July 7, 2020
+
+## Day 81 | July 8, 2020
+
+## Day 81 | July 9, 2020
+
+## Day 90 | July 10, 2020
+
+## Day 91 | July 11, 2020
+
+## Day 92 | July 12, 2020
+
+## Day 93 | July 13, 2020
+
+## Day 94 | July 14, 2020
+
+## Day 95 | July 15, 2020
+
+## Day 96 | July 16, 2020
+
+## Day 97 | July 17, 2020
+
+## Day 98 | July 18, 2020
+
+## Day 99 | July 19, 2020
+
+## Day 100 | July 20, 2020
