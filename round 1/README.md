@@ -39,37 +39,30 @@ But those who are new to Machine Learning, I highly recommend Python.
 - Great library
 - Increasing popularity
 
-Today I started reading Python Crash Course book by Eric. I read chapter 1, 2 and 3 today. You can read article [here](https://medium.com/the-innovation/python-basics-variables-data-types-and-list-59cea3dfe10f) and notebook [here](). 
+Today I started reading Python Crash Course book by Eric. I read chapter 1, 2 and 3 today. You can read article [here](https://medium.com/the-innovation/python-basics-variables-data-types-and-list-59cea3dfe10f) and notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%201%20-%20Python-basics-1.ipynb). 
 
 ## Day 2 | April 13, 2020
 
 ![Day 2](../resources/banners/Day2.png)
 
-Today I read chapter 4 and 6 of Python Crash Course book. You can read article [here](https://towardsdatascience.com/python-basics-2-working-with-list-tuples-dictionaries-871c6c01bb51) and notebook [here]().
+Today I read chapter 4 and 6 of Python Crash Course book. You can read article [here](https://towardsdatascience.com/python-basics-2-working-with-list-tuples-dictionaries-871c6c01bb51) and notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%202%20-%20Python-basics-2.ipynb).
 
 
 ## Day 3 | April 14, 2020
 
-TOday I manage to finish chapter 5 and 7 of Python Crash Course book. Tou can read article [here](https://medium.com/towards-artificial-intelligence/python-basics-3-97a8e69066e7) and notebook [here]().
-
-Today I learnd about OOPs concepts in Python ([here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20003/OOPs%20Concepts.ipynb)).
+TOday I manage to finish chapter 5 and 7 of Python Crash Course book. Tou can read article [here](https://medium.com/towards-artificial-intelligence/python-basics-3-97a8e69066e7) and notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%203%20-%20Python-basics-3.ipynb).
 
 ## Day 4 | April 15, 2020
 
-Today I read chapter 8 and 9 of Python Crash Course book. You can read article [here](https://medium.com/javarevisited/python-basics-4-functions-working-with-functions-classes-working-with-class-inheritance-70e0338c1b2e) and notebook [here]().
-
-Its very productive day. Worked on NumPy library. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20004/NumPy.ipynb). 
-Tomorrow, I will work on Pandas library. I am planning to working on NumPy and Pandas alternative days.
+Today I read chapter 8 and 9 of Python Crash Course book. You can read article [here](https://medium.com/javarevisited/python-basics-4-functions-working-with-functions-classes-working-with-class-inheritance-70e0338c1b2e) and notebook [here](https://www.kaggle.com/themlphdstudent/python-basics-4).
 
 ## Day 5 | April 16, 2020
 
 Today I read chapter 8 and 9 of Python Crash Course book. You can read article [here](https://medium.com/towards-artificial-intelligence/python-basics-5-files-and-exceptions-by-durgesh-samariya-5d892d170640) and notebook [here]().
 
-I learned basics of Pandas library. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20005/Pandas.ipynb).
-
 ## Day 6 | April 17, 2020
 
-Get my hands dirty in NumPy library. You can find code [here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20006/NumPy.ipynb).
+Today I learnd about OOPs concepts in Python ([here](https://github.com/durgeshsamariya/100DaysofMachineLearning/blob/master/Day%20003/OOPs%20Concepts.ipynb)).
 
 ## Day 7 | April 18, 2020
 
