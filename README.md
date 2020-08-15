@@ -29,3 +29,4 @@ You can find my Progress of Round 1 [here](https://github.com/themlphdstudent/10
 
 ## Round 2 | August 15, 2020
 
+You can find my Progress of Round 2 [here](https://github.com/themlphdstudent/100DaysofMachineLearning/tree/master/round%202).
