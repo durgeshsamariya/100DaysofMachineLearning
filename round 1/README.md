@@ -54,11 +54,11 @@ TOday I manage to finish chapter 5 and 7 of Python Crash Course book. Tou can re
 
 ## Day 4 | April 15, 2020
 
-Today I read chapter 8 and 9 of Python Crash Course book. You can read article [here](https://medium.com/javarevisited/python-basics-4-functions-working-with-functions-classes-working-with-class-inheritance-70e0338c1b2e) and notebook [here](https://www.kaggle.com/themlphdstudent/python-basics-4).
+Today I read chapter 8 and 9 of Python Crash Course book. You can read article [here](https://medium.com/javarevisited/python-basics-4-functions-working-with-functions-classes-working-with-class-inheritance-70e0338c1b2e) and notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%204%20-%20Python-basics-4.ipynb).
 
 ## Day 5 | April 16, 2020
 
-Today I read chapter 8 and 9 of Python Crash Course book. You can read article [here](https://medium.com/towards-artificial-intelligence/python-basics-5-files-and-exceptions-by-durgesh-samariya-5d892d170640) and notebook [here]().
+Today I read chapter 8 and 9 of Python Crash Course book. You can read article [here](https://medium.com/towards-artificial-intelligence/python-basics-5-files-and-exceptions-by-durgesh-samariya-5d892d170640) and notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%205%20-%20Python-basics-5.ipynb).
 
 ## Day 6 | April 17, 2020
 
