@@ -101,21 +101,22 @@ Today I finished Chapter 2 and 3. Both chapter are on Python, which is I already
 
 Today I learned about NumPy, it is very important library. 
 I started reading Chapter 4 from Python for Data Analysis by Wes McKinney. I am going to divide this chapter in 3 days as it is very import library. 
-Find notebook [here]().
+Find notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%20015%20-%20NumPy%20Part%201.ipynb).
 
 ## Day 16 | April 27, 2020
 
 I read Chapter 4 from Python for Data Analysis by Wes McKinney.
-Find notebook [here]().
+Find notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%20016%20-%20NumPy%20Part%202.ipynb).
 
 ## Day 17 | April 28, 2020
 
 I read Chapter 4 from Python for Data Analysis by Wes McKinney.
-Find notebook [here]().
+Find notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%20017%20-%20NumPy%20Part%203.ipynb).
 
 ## Day 18 | April 29, 2020
 
-
+Today I practice of NumPy. 
+Find notebook on NumPy Excercise [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%20018%20-%20NumPy%20Excercise%20Part%201.ipynb).
 
 ## Day 19 | April 30, 2020
 
