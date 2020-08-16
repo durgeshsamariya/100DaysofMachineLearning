@@ -122,7 +122,7 @@ Find notebook on NumPy Excercise [here](https://github.com/themlphdstudent/100Da
 ## Day 19 | April 30, 2020
 
 Today I did more practise on NumPy.
-Checkout my Excersice notebook [here]().
+Checkout my Excersice notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%20019%20-%20NumPy%20Exercise%20Part%202.ipynb).
 
 ## Day 20 | May 1, 2020
 
@@ -155,26 +155,30 @@ From tomorrow, I will focus on Pandas library.
 Today I started learning about Pandas.
 
 I started reading Chapter 5 from Python for Data Analysis by Wes McKinney. I am going to divide this chapter in 2 days.
-Find notebook [here]().
+Find notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%2024%20-%20Pandas%20Part%201.ipynb).
 
 ## Day 25 | May 6, 2020
 
 Today I finished Chapter 5 from Python for Data Analysis by Wes McKinney.
-Check out notebook [here]().
+Check out notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%2025%20-%20Pandas%20Part%202.ipynb).
 
 Next two days I will spend on practicing about Pandas. 
 
 ## Day 26 | May 7, 2020
 
 Today I practice of Pandas Library. 
-Find notebook on NumPy Excercise [here]().
+Find notebook on NumPy Excercise [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%2026%20-%20Pandas%20Exercise%201.ipynb).
 
 ## Day 27 | May 8, 2020
 
 Today I did more practise on Pandas.
-Checkout my Excersice notebook [here]().
+Checkout my Excersice notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%2027%20-%20Pandas%20Exercise%202.ipynb).
 
 ## Day 28 | May 9, 2020
+
+In this machine learning chellange I do want to learn data analysis part as well. So before moving to core machine learning I will learn more about data analysis. Thus, I started reading 'Chapter 6 : Data Loading, Storage, and File Formats' from Python for Data Analysis by Wes McKinney. 
+
+Find notebook [here](). 
 
 ## Day 29 | May 10, 2020
 
