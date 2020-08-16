@@ -86,19 +86,36 @@ Today I completed Excerices of Chapter 10 and 11 from Python Crash Course Book. 
 
 ## Day 12 | April 23,2020
 
-Today I revise all concepts I learned by doing some excerise on Python. Apart from that I revise all Git concepts. As it is very imporant if you want to show your work to community. You can find Git for begineers article [here](https://medium.com/dev-genius/learn-terminal-git-commands-in-3-minutes-3997b354382e) and notes [here]()
+Today I revise all basic Git concepts. As it is very imporant if you want to show your work to community. You can find Git for begineers article [here](https://medium.com/dev-genius/learn-terminal-git-commands-in-3-minutes-3997b354382e) and notes [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%20012%20-%20Git_Basics.md).
 
 ## Day 13 | April 24, 2020
 
+Today I started working on Data Analysis side. 
+I started reading Python for Data Analysis by Wes McKinney. I finished Chapter 1 today.
+
 ## Day 14 | April 25, 2020
+
+Today I finished Chapter 2 and 3. Both chapter are on Python, which is I already done before so I quickly scan both chapters.
 
 ## Day 15 | April 26, 2020
 
+Today I learned about NumPy, it is very important library. 
+I started reading Chapter 4 from Python for Data Analysis by Wes McKinney. I am going to divide this chapter in 3 days as it is very import library. 
+Find notebook [here]().
+
 ## Day 16 | April 27, 2020
+
+I read Chapter 4 from Python for Data Analysis by Wes McKinney.
+Find notebook [here]().
 
 ## Day 17 | April 28, 2020
 
+I read Chapter 4 from Python for Data Analysis by Wes McKinney.
+Find notebook [here]().
+
 ## Day 18 | April 29, 2020
+
+
 
 ## Day 19 | April 30, 2020
 
