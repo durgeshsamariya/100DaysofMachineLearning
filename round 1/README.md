@@ -96,6 +96,7 @@ I started reading Python for Data Analysis by Wes McKinney. I finished Chapter 1
 ## Day 14 | April 25, 2020
 
 Today I finished Chapter 2 and 3. Both chapter are on Python, which is I already done before so I quickly scan both chapters.
+You can find notebook [here]().
 
 ## Day 15 | April 26, 2020
 
@@ -120,26 +121,58 @@ Find notebook on NumPy Excercise [here](https://github.com/themlphdstudent/100Da
 
 ## Day 19 | April 30, 2020
 
+Today I did more practise on NumPy.
+Checkout my Excersice notebook [here]().
+
 ## Day 20 | May 1, 2020
 
-After learning few mathematics related topics for machine learning, I become more curious to learn in depth. Thus, today I enrolled in #mathematics for #machinelearning course by Imperial College of London. I'm super excited to learn. I am thinking to finish this course within a week. 
+After practising about numpy, Today I enrolled in #mathematics for #machinelearning course by Imperial College of London. I'm super excited to learn. I am thinking to finish this course within a week. 
 Today finished week 1 of Mathematics for Machine Learning: Linear Algebra course.
 
 Checkout my [Instagram Post](https://www.instagram.com/p/B_sZED8i6mX/?utm_source=ig_web_copy_link).
 
+Checkout my quiz [here]().
+
+I alternatively work on Maths course and other Data Analysis python Libraries. 
+
 ## Day 21 | May 2, 2020
+
+Today finished week 2 and some part of week 3.
 
 ## Day 22 | May 3, 2020
 
+Today finished week 3 and some part of week 4.
+
 ## Day 23 | May 4, 2020
+
+Spend most of the time working on Mathematics for Machine Learning: Linear Algebra course. Finally finished this course in 4 days. 
+Checkout my Certificate [here](https://coursera.org/share/d353ecff9f2603aa98119981549639df).
+
+From tomorrow, I will focus on Pandas library. 
 
 ## Day 24 | May 5, 2020
 
+Today I started learning about Pandas.
+
+I started reading Chapter 5 from Python for Data Analysis by Wes McKinney. I am going to divide this chapter in 2 days.
+Find notebook [here]().
+
 ## Day 25 | May 6, 2020
+
+Today I finished Chapter 5 from Python for Data Analysis by Wes McKinney.
+Check out notebook [here]().
+
+Next two days I will spend on practicing about Pandas. 
 
 ## Day 26 | May 7, 2020
 
+Today I practice of Pandas Library. 
+Find notebook on NumPy Excercise [here]().
+
 ## Day 27 | May 8, 2020
+
+Today I did more practise on Pandas.
+Checkout my Excersice notebook [here]().
 
 ## Day 28 | May 9, 2020
 
