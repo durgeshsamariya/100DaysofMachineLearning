@@ -62,20 +62,31 @@ Today I read chapter 8 and 9 of Python Crash Course book. You can read article [
 
 ## Day 6 | April 17, 2020
 
-Today I learnd about OOPs concepts in Python [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%206%20-%20OOPs%20Concepts.ipynb).
+Today I learnd about OOPs concepts in Python, find [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%206%20-%20OOPs%20Concepts.ipynb).
 
 ## Day 7 | April 18, 2020
 
+Today I completed Excerices of Chapter 1 to 3 from Python Crash Course Book. You can find excercise of [Chapter 2](https://github.com/themlphdstudent/python_crash_course/blob/master/Chapter%2002.ipynb) and [Chapter 3](https://github.com/themlphdstudent/python_crash_course/blob/master/Chapter%2003.ipynb).
 
 ## Day 8 | April 19, 2020
 
+Today I completed Excerices of Chapter 4 and 5 from Python Crash Course Book. You can find excercise of [Chapter 4](https://github.com/themlphdstudent/python_crash_course/blob/master/Chapter%2004.ipynb) and [Chapter 5](https://github.com/themlphdstudent/python_crash_course/blob/master/Chapter%2005.ipynb).
+
 ## Day 9 | April 20, 2020
+
+Today I completed Excerices of Chapter 6 and 7 from Python Crash Course Book. You can find excercise of [Chapter 6](https://github.com/themlphdstudent/python_crash_course/blob/master/Chapter%2006.ipynb) and [Chapter 7](https://github.com/themlphdstudent/python_crash_course/blob/master/Chapter%2007.ipynb).
 
 ## Day 10 | April 21, 2020
 
+Today I completed Excerices of Chapter 8 and 9 from Python Crash Course Book. You can find excercise of [Chapter 8](https://github.com/themlphdstudent/python_crash_course/blob/master/Chapter%2008.ipynb) and [Chapter 9](https://github.com/themlphdstudent/python_crash_course/blob/master/Chapter%2009.ipynb).
+
 ## Day 11 | April 22,2020
 
+Today I completed Excerices of Chapter 10 and 11 from Python Crash Course Book. You can find excercise of [Chapter 10](https://github.com/themlphdstudent/python_crash_course/blob/master/Chapter%2010.ipynb) and [Chapter 11](https://github.com/themlphdstudent/python_crash_course/blob/master/Chapter%2011.ipynb).
+
 ## Day 12 | April 23,2020
+
+Today I revise all concepts I learned by doing some excerise on Python. Apart from that I revise all Git concepts. As it is very imporant if you want to show your work to community. You can find Git for begineers article [here](https://medium.com/dev-genius/learn-terminal-git-commands-in-3-minutes-3997b354382e) and notes [here]()
 
 ## Day 13 | April 24, 2020
 
@@ -92,6 +103,11 @@ Today I learnd about OOPs concepts in Python [here](https://github.com/themlphds
 ## Day 19 | April 30, 2020
 
 ## Day 20 | May 1, 2020
+
+After learning few mathematics related topics for machine learning, I become more curious to learn in depth. Thus, today I enrolled in #mathematics for #machinelearning course by Imperial College of London. I'm super excited to learn. I am thinking to finish this course within a week. 
+Today finished week 1 of Mathematics for Machine Learning: Linear Algebra course.
+
+Checkout my [Instagram Post](https://www.instagram.com/p/B_sZED8i6mX/?utm_source=ig_web_copy_link).
 
 ## Day 21 | May 2, 2020
 
