@@ -18,7 +18,7 @@ In addition to that, it’s a my place to store all my machine learning self lea
 
 ### Motivation
 
-By doing this challenge, I would like to learn more about Machine Learning, which is important and helpful for my research. In addition to that, at the end of 100 days, I hope to have a rich portfolio of code, projects, and summary of the machine learning topics and models plus all of the additional content (available on internet) which I’ll discover over the learning journey. I think, most importantly – as a researcher, I’d like to contribute to the machine learning community.
+By doing this challenge, I would like to learn Machine Learning (from scratch), which is important and helpful. Note that I am aware with many thing as I am doing my research in Machine Learning, however I want to start from the scratch. Starting from scratch will help me to build strong foundation of machine learning. In addition to that, at the end of 100 days, I hope to have a rich portfolio of code, projects, and summary of the machine learning topics and models plus all of the additional content (available on internet) which I’ll discover over the learning journey. I think, most importantly – as a researcher, I’d like to contribute to the machine learning community.
 
 My aim throughout this process will be to learn as much as I can with accessible materials (mostly free) while always being sure to provide useful links that help someone wants to learn machine learning.
 
