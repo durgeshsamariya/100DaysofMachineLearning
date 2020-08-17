@@ -199,25 +199,25 @@ Today I am going to learn about one of the widly used Visualization library - Ma
 
 I started reading 'Chapter 9 : Plotting and Visualization' from Python for Data Analysis by Wes McKinney. 
 
-Find notebook [here]().
+Find notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%2031%20-%20Plotting%20and%20Visualization.ipynb).
 
 ## Day 32 | May 13, 2020
 
 Today I started reading 'Chapter 10 : Data Aggregation and Group Operations' from Python for Data Analysis by Wes McKinney. 
 
-Find notebook [here]().
+Find notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%2032%20-%20Data%20Aggregation%20and%20Group%20Operations.ipynb).
 
 ## Day 33 | May 14, 2020
 
 Today I started reading 'Chapter 11 : Time Series' from Python for Data Analysis by Wes McKinney. 
 
-Find notebook [here]().
+Find notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%2033%20-%20Time%20Series.ipynb).
 
 ## Day 34 | May 15, 2020
 
 Today I started reading 'Chapter 12 : Advanced pandas' from Python for Data Analysis by Wes McKinney. 
 
-Find notebook [here]().
+Find notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%2034%20-%20Advanced%20pandas.ipynb).
 
 ## Day 35 | May 16, 2020
 
@@ -226,7 +226,7 @@ Let's Practise all the skill by doing some data analysis project.
 Project: 
 Data set: 
 
-Checkout notebook [here]().
+Checkout notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%2035%20-%20Project%201%20-%20Part%201.ipynb).
 
 ## Day 36 | May 17, 2020
 
@@ -235,7 +235,7 @@ I continue on yesterday's project.
 Project:
 Data set: 
 
-Checkout notebook [here]().
+Checkout notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%2036%20-%20Project%201%20-%20Part%202.ipynb).
 
 ## Day 37 | May 18, 2020
 
@@ -244,7 +244,7 @@ Today I am going to do another project of data analysis.
 Project:
 Data set:
 
-Checkout notebook [here]().
+Checkout notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%2037%20-%20Project%202%20-%20Part%201.ipynb).
 
 ## Day 38 | May 19, 2020
 
@@ -253,7 +253,7 @@ I continue on yesterday's project.
 Project:
 Data set: 
 
-Checkout notebook [here]().
+Checkout notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%2038%20-%20Project%202%20-%20Part%202.ipynb).
 
 ## Day 39 | May 20, 2020
 
@@ -261,7 +261,7 @@ It's time to start learning Machine Learning.
 
 Today I learned basic terms of machine learning.
 
-Find out notebook [here]().
+Find out notebook [here](https://github.com/themlphdstudent/100DaysofMachineLearning/blob/master/round%201/Day%2039%20-%20Basic%20Machine%20Learning%20Terms.ipynb).
 
 
 ## Day 40 | May 21, 2020
