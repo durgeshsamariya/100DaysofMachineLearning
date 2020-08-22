@@ -350,22 +350,27 @@ I will start learning Seaborn and Plotly from tomorrow.
 
 ## Day 69 | June 19, 2020
 
-Today I started learning Seaborn Library.
+Today I started learning Matplotlib Library.
 
 ## Day 70 | June 20, 2020
 
-Today I learned more about Seaborn Library.
+Today I learned more about Matplotlib Library.
 
 ## Day 71 | June 21, 2020
 
-Seaborn Practice on dataset.
+Matplotlib Practice on dataset.
 
 ## Day 72 | June 22, 2020
 
+Today I started learning about Seaborn Library.
 
 ## Day 73 | June 23, 2020
 
+Today I started learning about Seaborn Library.
+
 ## Day 74 | June 24, 2020
+
+Seaborn Practice on dataset.
 
 ## Day 75 | June 25, 2020
 
