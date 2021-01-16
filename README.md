@@ -1,4 +1,4 @@
-# 100DaysofMachineLearning
+# 100 Days of Machine Learning Code
 [![GitHub stars](https://img.shields.io/github/stars/durgeshsamariya/100DaysofMachineLearning.svg)](https://github.com/durgeshsamariya/100DaysofMachineLearning/stargazers)
 
 # ``` THIS REPO IS IN PROGRESS ... ``` 👨‍💻
@@ -13,7 +13,7 @@ Machine Learning is the “Field of study that gives computers the ability to le
 
 ### About Challenge
 
-I am passionate in Machine Learning (it goes without saying as I am doing my PhD in Machine Learning). One day I came across this [video](https://www.youtube.com/watch?v=cuQMBj1cWPo&t=7s) by [Siraj Raval](https://github.com/llSourcell), in which he talked about #100daysofMLcode Challenge.  I know I am bit (maybe too late) for this challenge, but better late than never.  #100daysofMLcode challenge means, studying and/or coding machine learning for minimum 1 hour a day for next 100 days.
+I am passionate in Machine Learning (it goes without saying as I am doing my PhD in Machine Learning). One day I came across this [video](https://www.youtube.com/watch?v=cuQMBj1cWPo&t=7s) by [Siraj Raval](https://github.com/llSourcell), in which he talked about #100daysofMLcode Challenge. I know I am bit (maybe too late) for this challenge, but better late than never. #100daysofMLcode challenge means, studying and/or coding machine learning for minimum 1 hour a day for next 100 days.
 
 This repository contains 100-Days-Of-Machine-Learning-Code.
 In addition to that, it’s a my place to store all my machine learning self learning resources and place to track my progress.
@@ -24,11 +24,5 @@ By doing this challenge, I would like to learn Machine Learning (from scratch), 
 
 My aim throughout this process will be to learn as much as I can with accessible materials (mostly free) while always being sure to provide useful links that help someone wants to learn machine learning.
 
+Last year I did 100 days and then due to some other commitments I was unable to continue. I am starting this challenge again this year and I will try to continue as long as I can. 
 
-## Round 1 | April 11, 2020 to 
-
-You can find my Progress of Round 1 [here](https://github.com/themlphdstudent/100DaysofMachineLearning/tree/master/round%201).
-
-## Round 2 | August 15, 2020
-
-You can find my Progress of Round 2 [here](https://github.com/themlphdstudent/100DaysofMachineLearning/tree/master/round%202).
