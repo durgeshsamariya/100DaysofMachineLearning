@@ -26,3 +26,8 @@ My aim throughout this process will be to learn as much as I can with accessible
 
 Last year I did 100 days and then due to some other commitments I was unable to continue. I am starting this challenge again this year and I will try to continue as long as I can. 
 
+### Aim: At the end of this code challenge I will be able to
+
+- Grow from Zero to Hero in Data Science
+- Grow from Zero to Hero in Machine Learning
+- Master the major libraries and algorithms use for machine learning and Data science
