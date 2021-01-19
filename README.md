@@ -28,6 +28,5 @@ Last year I did 100 days and then due to some other commitments I was unable to 
 
 ### Aim: At the end of this code challenge I will be able to
 
-- Grow from Zero to Hero in Data Science
 - Grow from Zero to Hero in Machine Learning
 - Master the major libraries and algorithms use for machine learning and Data science
