@@ -39,3 +39,7 @@ But those who are new to Machine Learning, I highly recommend Python.
 
 Today I started reading Python Crash Course book by Eric. I read chapter 1, 2 and 3 today. You can read article [here](https://medium.com/the-innovation/python-basics-variables-data-types-and-list-59cea3dfe10f)
 
+## Day 2 | January 20, 2021
+
+I mange to finish chapters 4 to 6 of Python Crash Course book by Eric.
+
