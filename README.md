@@ -1,10 +1,7 @@
 # 100 Days of Machine Learning Code
 [![GitHub stars](https://img.shields.io/github/stars/durgeshsamariya/100DaysofMachineLearning.svg)](https://github.com/durgeshsamariya/100DaysofMachineLearning/stargazers)
 
-# ``` THIS REPO IS IN PROGRESS ... ``` 👨‍💻
-
 ![100-Days-Of-MachineLearning-Code](resources/banners/100daysofMLcode.png)
-100-Days-Of-MachineLearning-Code
 
 ### Machine Learning 
 
@@ -15,8 +12,7 @@ Machine Learning is the “Field of study that gives computers the ability to le
 
 I am passionate in Machine Learning (it goes without saying as I am doing my PhD in Machine Learning). One day I came across this [video](https://www.youtube.com/watch?v=cuQMBj1cWPo&t=7s) by [Siraj Raval](https://github.com/llSourcell), in which he talked about #100daysofMLcode Challenge. I know I am bit (maybe too late) for this challenge, but better late than never. #100daysofMLcode challenge means, studying and/or coding machine learning for minimum 1 hour a day for next 100 days.
 
-This repository contains 100-Days-Of-Machine-Learning-Code.
-In addition to that, it’s a my place to store all my machine learning self learning resources and place to track my progress.
+This repository contains 100-Days-Of-Machine-Learning-Code. In addition to that, it’s a my place to store all my machine learning self learning resources and place to track my progress.
 
 ### Motivation
 
@@ -29,13 +25,13 @@ Last year I did 100 days and then due to some other commitments I was unable to 
 ### Aim: At the end of this code challenge I will be able to
 
 - Grow from Zero to Hero in Machine Learning
-- Master the major libraries and algorithms use for machine learning and Data science
+- Master the major libraries and algorithms use for Machine Learning and Data Science
 
 ## Day 0 | January 18, 2021
 
 D-Day is here and finally, I am accepting 100 days of machine learning code challenge.
 
-On 16 Jan, 2021, I am accepting a challenge, which is “100-Days-Of-Machine-Learning-Code” and the intuition behind this to dedicate at least one hour of every day for next 100 days in studying and/or coding Machine Learning.
+On 18 Jan, 2021, I am accepting a challenge, which is “100-Days-Of-Machine-Learning-Code” and the intuition behind this to dedicate at least one hour of every day for next 100 days in studying and/or coding Machine Learning.
 
 I will share my progress via :
 
@@ -45,13 +41,15 @@ Twitter : www.twitter.com/@themlphdstudent
 
 Instagram : www.instagram.com/@themlphdstudent
 
-My Webpage : 
+My Webpage : https://durgeshsamariya.github.io
 
 Medium : https://medium.com/@durgeshsamariya
 
 You can read article [here](https://medium.com/@durgeshsamariya/100-days-of-machine-learning-code-a9074e1c42c3).
 
 _**Make sure you subscribe and give star to repository, so you can enjoy amazing free resources.**_
+
+## Overview
 
 | Day | Topic | Blog post with explanation | Code of the day |
 |-----|-------|----------------------------|-----------------|
